@@ -1,0 +1,17 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^examples$
+CONTRIBUTING.md
+^docker$
+^.*[.]tar.gz$
+^\.lintr$
+^\.codecov\.yml
+^\.openapi\.yaml$
+^pkgdown$
+^\.dockerignore$
+cran-comments.md
+^\.github/*
+^CRAN-RELEASE$
+^\.github$
